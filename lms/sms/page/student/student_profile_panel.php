@@ -1,1 +1,0 @@
-<?php include "student_profile/profile.php"; ?>
