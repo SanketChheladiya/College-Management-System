@@ -1,0 +1,1 @@
+<?php include "add_student/add_student.php"; ?>
